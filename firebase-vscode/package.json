@@ -252,7 +252,7 @@
     "@wdio/spec-reporter": "^8.27.0",
     "copy-webpack-plugin": "^11.0.0",
     "css-loader": "^6.7.1",
-    "eslint": "^8.28.0",
+    "eslint": "^10.0.0",
     "eslint-plugin-react": "^7.32.2",
     "fork-ts-checker-webpack-plugin": "^7.3.0",
     "glob": "^8.0.3",
